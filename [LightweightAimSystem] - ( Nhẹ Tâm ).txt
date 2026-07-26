@@ -1,0 +1,10 @@
+QuickScope Reaction Time=1
+RealTimeMovement-Aim Sync=1
+SmartTap Fire Optimization=1
+LowDrag Flick Mode=1
+FeatherTouch Aiming System=1
+AutoFocus Target Assist=1
+DynamicAim Flow Control=1
+FastAim Lock-On Assist=1
+MinimalWeight Aim Tuning=1
+QuickLightAim Reset=1
