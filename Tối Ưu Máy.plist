@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>CPUPerfBoost</key>
+		<string>cpu.performance.boost</string>
+		<key>gpu.dynamic.frequency</key>
+		<true/>
+		<key>memory.cache.clean.interval</key>
+		<true/>
+		<key>ThreadRealtime</key>
+		<string>thread.priority.realtime</string>
+		<key>background.task.limit</key>
+		<true/>
+		<key>thermal.throttle.control</key>
+		<true/>
+		<key>frame.queue.optimization</key>
+		<true/>
+		<key>IOWaitReduce</key>
+		<string>io.wait.reduction</string>
+		<key>render.pipeline.fastmode</key>
+		<true/>
+		<key>GCTriggerThresh</key>
+		<string>system.gc.trigger.threshold</string>
+		<key>power.mode.game</key>
+		<true/>
+		<key>network.packet.coalesce</key>
+		<true/>
+		<key>SmartScheduler</key>
+		<string>scheduler.smart.adjust</string>
+		<key>graphics.buffer.resize</key>
+		<true/>
+		<key>CoreAffinity</key>
+		<string>cpu.core.affinity</string>
+		<key>render.thread.boost</key>
+		<true/>
+		<key>input.event.batch</key>
+		<true/>
+		<key>CacheFlush</key>
+		<true/>
+		<key>frame.stability.lock</key>
+		<true/>
+		<key>performance.mode.enhanced</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

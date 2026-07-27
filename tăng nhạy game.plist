@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>touch.sensitivity.boost</key>
+		<true/>
+		<key>InputResponseTime</key>
+		<string>input.response.time</string>
+		<key>touch.precision.enhance</key>
+		<true/>
+		<key>swipe.speed.adjust</key>
+		<true/>
+		<key>drag.distance.reduce</key>
+		<true/>
+		<key>DebounceDisable</key>
+		<string>touch.debounce.disable</string>
+		<key>multi.touch.priority</key>
+		<true/>
+		<key>touch.sensitivity.adjust</key>
+		<true/>
+		<key>gesture.response.fast</key>
+		<true/>
+		<key>InputDelayMin</key>
+		<string>input.delay.minimize</string>
+		<key>touch.accuracy.boost</key>
+		<true/>
+		<key>SwipeAngleCorrect</key>
+		<string>swipe.angle.correct</string>
+		<key>tap.response.speed</key>
+		<true/>
+		<key>DragSmoothFactor</key>
+		<string>drag.smooth.factor</string>
+		<key>touch.event.filter</key>
+		<true/>
+		<key>MultiTouchBuffer</key>
+		<string>multi.touch.buffer</string>
+		<key>input.sensitivity.curve</key>
+		<true/>
+		<key>GestureDeadzoneMin</key>
+		<string>gesture.deadzone.min</string>
+		<key>touch.smooth.level</key>
+		<true/>
+		<key>TapAccuracyFix</key>
+		<string>tap.accuracy.fix</string>
+	</dict>
+</dict>
+</plist>

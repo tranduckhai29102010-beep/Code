@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>TouchFreq240Hz</key>
+		<string>touch.freq.cap.240hz</string>
+		<key>touch.sample.rate.120hz</key>
+		<true/>
+		<key>input.polling.rate.high</key>
+		<true/>
+		<key>touch.freq.boost.mode</key>
+		<true/>
+		<key>TouchResponseFreq</key>
+		<string>touch.response.freq</string>
+		<key>touch.event.priority</key>
+		<true/>
+		<key>sampling.rate.dynamic</key>
+		<true/>
+		<key>touch.sensitivity.freq</key>
+		<true/>
+		<key>InputFreqOptimize</key>
+		<string>input.freq.optimize</string>
+		<key>touch.refresh.rate.lock</key>
+		<true/>
+		<key>MultiTouchFreqBoost</key>
+		<string>multi.touch.freq.boost</string>
+		<key>touch.polling.stabilizer</key>
+		<true/>
+		<key>FreqTouchDelayReduce</key>
+		<string>freq.touch.delay.reduce</string>
+		<key>touch.freq.clamp</key>
+		<true/>
+		<key>InputFreqAdaptive</key>
+		<string>input.freq.adaptive</string>
+		<key>touch.event.frequency</key>
+		<true/>
+		<key>TouchFreqStabilize</key>
+		<string>touch.freq.stabilize</string>
+		<key>polling.rate.stabilize</key>
+		<true/>
+		<key>touch.freq.minimize.lag</key>
+		<true/>
+		<key>TouchFreqLimitAdjust</key>
+		<string>touch.freq.limit.adjust</string>
+	</dict>
+</dict>
+</plist>

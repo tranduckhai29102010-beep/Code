@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>fps.stabilizer.enable</key>
+		<true/>
+		<key>FrameDropPrevent</key>
+		<string>frame.drop.prevent</string>
+		<key>render.latency.fix</key>
+		<true/>
+		<key>frame.jank.reduce</key>
+		<true/>
+		<key>gpu.load.balance</key>
+		<true/>
+		<key>FPSTargetLock</key>
+		<string>fps.target.lock</string>
+		<key>frame.time.stabilizer</key>
+		<true/>
+		<key>MemoryAllocOptimize</key>
+		<string>memory.alloc.optimize</string>
+		<key>gpu.power.boost</key>
+		<true/>
+		<key>render.pipeline.fix</key>
+		<true/>
+		<key>frame.drop.threshold</key>
+		<true/>
+		<key>FPSDipPrevent</key>
+		<string>fps.dip.prevent</string>
+		<key>sync.frame.rate</key>
+		<true/>
+		<key>RenderDelayFix</key>
+		<string>render.delay.fix</string>
+		<key>gpu.clock.stabilize</key>
+		<true/>
+		<key>FPSMonitorEnable</key>
+		<string>fps.monitor.enable</string>
+		<key>frame.buffer.limit</key>
+		<true/>
+		<key>CPUGovernorPerf</key>
+		<string>cpu.governor.performance</string>
+		<key>power.save.override</key>
+		<true/>
+		<key>FPSDropSuppress</key>
+		<string>fps.drop.suppress</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>ScreenDelayMin</key>
+		<string>screen.delay.minimize</string>
+		<key>frame.to.display.sync</key>
+		<true/>
+		<key>InputScreenLatency</key>
+		<string>input.to.screen.latency</string>
+		<key>render.to.vsync.align</key>
+		<true/>
+		<key>screen.refresh.stabilizer</key>
+		<true/>
+		<key>display.pipeline.optimize</key>
+		<true/>
+		<key>VSyncDelayFix</key>
+		<string>vsync.delay.fix</string>
+		<key>screen.input.sync</key>
+		<true/>
+		<key>FramePresentationDelay</key>
+		<string>frame.presentation.delay</string>
+		<key>input.frame.latency.reduce</key>
+		<true/>
+		<key>RenderQueueSync</key>
+		<string>render.queue.sync</string>
+		<key>display.buffer.flush</key>
+		<true/>
+		<key>ScreenResponseBoost</key>
+		<string>screen.response.boost</string>
+		<key>input.delay.adjust</key>
+		<true/>
+		<key>VSyncAdjustMode</key>
+		<string>vsync.adjust.mode</string>
+		<key>frame.delay.compensation</key>
+		<true/>
+		<key>RenderPipelineSync</key>
+		<string>render.pipeline.sync</string>
+		<key>screen.update.priority</key>
+		<true/>
+		<key>input.screen.sync.lock</key>
+		<true/>
+		<key>LatencyCompensate</key>
+		<string>latency.compensate</string>
+	</dict>
+</dict>
+</plist>

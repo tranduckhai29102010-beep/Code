@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>AimCenterAssist</key>
+		<string>aim.lock.center.bias</string>
+		<key>recoil.compensation.enable</key>
+		<true/>
+		<key>target.follow.path.optimize</key>
+		<true/>
+		<key>aim.snap.assist</key>
+		<true/>
+		<key>ReticleStabil</key>
+		<string>reticle.stabilizer.active</string>
+		<key>drag.assist.level1</key>
+		<true/>
+		<key>targeting.buffer.window</key>
+		<true/>
+		<key>movement.stick.aim.lock</key>
+		<true/>
+		<key>AutoRecenter</key>
+		<string>auto.recenter.aim</string>
+		<key>spray.control.vector</key>
+		<true/>
+		<key>ads.stick.pull.control</key>
+		<true/>
+		<key>flick.resist.module</key>
+		<true/>
+		<key>TrackingBoost</key>
+		<string>tracking.boost.layer</string>
+		<key>aim.deviation.reduce</key>
+		<true/>
+		<key>touch.aim.weight</key>
+		<true/>
+		<key>ScopeBiasFix</key>
+		<string>scope.motion.bias</string>
+		<key>gyro.assist.strength</key>
+		<true/>
+		<key>AimSmoothFactor</key>
+		<string>aim.smooth.factor</string>
+		<key>auto.aim.delay.comp</key>
+		<true/>
+		<key>SnapAngleLimit</key>
+		<string>snap.angle.limit</string>
+	</dict>
+</dict>
+</plist>

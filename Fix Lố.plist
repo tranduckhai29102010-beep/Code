@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>OvershootClamp</key>
+		<string>input.overshoot.clamp</string>
+		<key>touch.deadzone.expand</key>
+		<true/>
+		<key>OvershootReduce</key>
+		<string>overshoot.reduce.level</string>
+		<key>input.limit.enforce</key>
+		<true/>
+		<key>SensitivityClamp</key>
+		<string>touch.sensitivity.clamp</string>
+		<key>gesture.limit.adjust</key>
+		<true/>
+		<key>OvershootComp</key>
+		<string>overshoot.compensation</string>
+		<key>touch.motion.smooth</key>
+		<true/>
+		<key>InputBoundaryCheck</key>
+		<string>input.boundary.check</string>
+		<key>overshoot.fix.mode</key>
+		<true/>
+		<key>TouchLimitReset</key>
+		<string>touch.limit.reset</string>
+		<key>overshoot.deadzone.increase</key>
+		<true/>
+		<key>InputMotionClamp</key>
+		<string>input.motion.clamp</string>
+		<key>touch.input.stabilize</key>
+		<true/>
+		<key>overshoot.guard.enable</key>
+		<true/>
+		<key>InputErrorCorrection</key>
+		<string>input.error.correction</string>
+		<key>touch.motion.limit</key>
+		<true/>
+		<key>overshoot.input.filter</key>
+		<true/>
+		<key>InputSmoothingLevel</key>
+		<string>input.smoothing.level</string>
+		<key>touch.buffer.adjust</key>
+		<true/>
+	</dict>
+</dict>
+</plist>

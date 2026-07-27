@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>New item - 2</key>
+	<dict>
+		<key>haptic.feedback.disable</key>
+		<true/>
+		<key>VibMinimize</key>
+		<string>vibration.strength.minimize</string>
+		<key>input.jitter.filter</key>
+		<true/>
+		<key>TouchDriftComp</key>
+		<string>touch.drift.compensation</string>
+		<key>gyro.noise.cancel</key>
+		<true/>
+		<key>motion.stabilizer.enable</key>
+		<true/>
+		<key>deadzone.adjustment</key>
+		<true/>
+		<key>TouchSmooth</key>
+		<string>touch.axis.smooth</string>
+		<key>sensor.noise.threshold</key>
+		<true/>
+		<key>input.shake.reduction</key>
+		<true/>
+		<key>controller.stabilizer.active</key>
+		<true/>
+		<key>GestureFilter</key>
+		<string>gesture.noise.filter</string>
+		<key>touch.damping.level</key>
+		<true/>
+		<key>MicroMoveIgnore</key>
+		<string>micro.move.ignore</string>
+		<key>handshake.detection.disable</key>
+		<true/>
+		<key>cursor.anchor.stabilize</key>
+		<true/>
+		<key>tap.shake.guard</key>
+		<true/>
+		<key>NoiseClamp</key>
+		<string>input.noise.clamp</string>
+		<key>vibration.min.mode</key>
+		<true/>
+		<key>touch.drift.guard</key>
+		<true/>
+	</dict>
+</dict>
+</plist>
