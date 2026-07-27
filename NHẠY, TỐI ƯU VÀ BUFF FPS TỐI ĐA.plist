@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>FastTouchMode</key>
+	<dict>
+		<key>TouchSamplingRateHz</key>
+		<real>300</real>
+		<key>TouchSensitivityLevel</key>
+		<real>10</real>
+		<key>AimAssistStrength</key>
+		<real>0.95</real>
+		<key>RecoilReductionLevel</key>
+		<real>0.9</real>
+		<key>TargetFPS</key>
+		<real>144</real>
+	</dict>
+	<key>StableMode</key>
+	<dict>
+		<key>TouchSamplingRateHz</key>
+		<real>180</real>
+		<key>TouchSensitivityLevel</key>
+		<real>9</real>
+		<key>AimAssistStrength</key>
+		<real>0.9</real>
+		<key>RecoilReductionLevel</key>
+		<real>0.88</real>
+		<key>TargetFPS</key>
+		<real>120</real>
+	</dict>
+	<key>FpsUnlock</key>
+	<dict>
+		<key>TargetFPS</key>
+		<real>165</real>
+		<key>TouchSamplingRateHz</key>
+		<real>300</real>
+		<key>EnableHighFrameRate</key>
+		<true/>
+		<key>ForcePerformanceMode</key>
+		<true/>
+		<key>ThermalMitigation</key>
+		<false/>
+	</dict>
+</dict>
+</plist>
